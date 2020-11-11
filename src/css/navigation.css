@@ -1,0 +1,18 @@
+.navitem {
+    color: rgb(10, 10, 10);
+    font-weight: 700;
+    font-size: Large;
+    font-family: 'Xanh Mono', monospace;
+}
+
+h3{
+    font-family: 'Bitter', serif;
+}
+
+.image-edited {
+    widows: 200px;
+    height: 70px;
+    object-fit: contain;
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Bitter:wght@800&family=Xanh+Mono:ital@1&display=swap');
